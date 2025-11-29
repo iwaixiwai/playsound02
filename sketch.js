@@ -3,7 +3,7 @@ let playButton, stopButton; // プレイとストップのボタン用の変数
 
 // preload関数でサウンドファイルを読み込む
 function preload() {
-  sound = loadSound('Elepla_hanenbow.mp3');
+  sound = loadSound('ElectroplanktonCM.mp3');
 }
 
 // setup関数でキャンバスとUIを作成する
