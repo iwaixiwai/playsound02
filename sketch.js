@@ -8,7 +8,7 @@ function preload() {
 
 // setup関数でキャンバスとUIを作成する
 function setup() {
-  createCanvas(400, 400); // キャンバスを作成
+  createCanvas(240, 240); // キャンバスを作成
 
   // プレイボタンを作成
   playButton = createButton('Play');
